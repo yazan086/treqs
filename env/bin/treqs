@@ -1,0 +1,7 @@
+#!/home/yazan/treqs/env/bin/python3
+# EASY-INSTALL-DEV-SCRIPT: 'treqs==0.1','treqs'
+__requires__ = 'treqs==0.1'
+__import__('pkg_resources').require('treqs==0.1')
+__file__ = '/home/yazan/treqs/bin/treqs'
+with open(__file__) as f:
+    exec(compile(f.read(), __file__, 'exec'))
